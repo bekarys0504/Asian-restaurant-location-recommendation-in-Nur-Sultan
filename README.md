@@ -1,2 +1,1 @@
-# IBM-Data-Science-Capstone
-Final Project for IBM Data Science Professional Certificate
+# Asian restaurant location recommendation in the city of Nur-Sultan
